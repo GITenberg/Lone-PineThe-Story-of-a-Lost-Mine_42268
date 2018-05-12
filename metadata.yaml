@@ -1,0 +1,28 @@
+_repo: Lone-PineThe-Story-of-a-Lost-Mine_42268
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42268-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Townshend, R. B. (Richard Baxter)
+    alias: Townshend, Richard Baxter
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '38217'
+    url: http://www.gutenberg.org/2009/agents/38217
+description: ''
+gutenberg_issued: '2013-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'Lone Pine: The Story of a Lost Mine'
+url: http://www.gutenberg.org/ebooks/42268
