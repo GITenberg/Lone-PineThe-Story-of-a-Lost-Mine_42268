@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38217'
     url: http://www.gutenberg.org/2009/agents/38217
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42268#Lone-PineThe-Story-of-a-Lost-Mine
 gutenberg_issued: '2013-03-05'
 gutenberg_type: Text
 identifiers:
